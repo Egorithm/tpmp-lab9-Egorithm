@@ -20,5 +20,5 @@ jobs:
 
       - name: Build Project
         run: |
-          cd example1_2
-          xcodebuild clean build -project example1_2.xcodeproj -scheme example1_2 -destination 'platform=iOS Simulator,name=iPhone 14,OS=latest' CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
+          cd FPMI_App
+          xcodebuild clean build -project FPMI_App.xcodeproj -scheme FPMI_App -destination 'platform=iOS Simulator,name=iPhone 14,OS=latest' CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO

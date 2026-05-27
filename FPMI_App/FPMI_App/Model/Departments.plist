@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>name</key>
+        <string>Кафедра системного программирования</string>
+        <key>imageName</key>
+        <string>dep1</string>
+        <key>headName</key>
+        <string>Проф. Иванов И.И.</string>
+        <key>courses</key>
+        <array>
+            <string>iOS разработка</string>
+            <string>Алгоритмы</string>
+        </array>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Кафедра компьютерной безопасности</string>
+        <key>imageName</key>
+        <string>dep2</string>
+        <key>headName</key>
+        <string>Доц. Петров П.П.</string>
+        <key>courses</key>
+        <array>
+            <string>Криптография</string>
+            <string>Защита сетей</string>
+        </array>
+    </dict>
+</array>
+</plist>

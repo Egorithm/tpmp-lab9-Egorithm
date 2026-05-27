@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  FPMI_App
+
+  Created by user on 13.05.26.
+  kurdeko Egor
+*/
+
+"login_btn" = "Login";
+"main_title" = "FPMI Departments";
+"head_label" = "Head of Department";
+"courses_label" = "Courses";
+"login_placeholder" = "Enter your login";

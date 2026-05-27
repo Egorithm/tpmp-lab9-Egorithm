@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  FPMI_App
+
+  Created by user on 13.05.26.
+  kurdeko Egor
+*/
+
+"login_btn" = "Увайсці ў сістэму";
+"main_title" = "Кафедры ФПМІ";
+"head_label" = "Загадчык кафедры";
+"courses_label" = "Курсы, якія чытаюцца";
+"login_placeholder" = "Увядзіце ваш лагін";
+
