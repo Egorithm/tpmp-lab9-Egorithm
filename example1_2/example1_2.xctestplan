@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "D27B0A95-1D0A-46E0-8F9E-34A3E9FA1F4D",
+      "name" : "Configuration 1",
+      "options" : {
+        "language" : "ru",
+        "region" : "RU"
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testExecutionOrdering" : "random",
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:example1_2.xcodeproj",
+      "identifier" : "example1_2",
+      "name" : "example1_2"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:example1_2.xcodeproj",
+        "identifier" : "example1_2Tests",
+        "name" : "example1_2Tests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:example1_2.xcodeproj",
+        "identifier" : "example1_2UITests",
+        "name" : "example1_2UITests"
+      }
+    }
+  ],
+  "version" : 1
+}
